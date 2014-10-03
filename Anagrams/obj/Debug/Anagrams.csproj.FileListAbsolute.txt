@@ -1,0 +1,6 @@
+c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache
+c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
