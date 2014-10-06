@@ -4,3 +4,10 @@ c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\bin\Deb
 c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache
 c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\obj\Debug\Anagrams.exe
 c:\users\peter's\documents\visual studio 2013\Projects\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
+C:\Intern\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+C:\Intern\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+C:\Intern\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
+C:\Intern\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+C:\Intern\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+C:\Intern\Anagrams\Anagrams\bin\Debug\nunit.framework.dll
+C:\Intern\Anagrams\Anagrams\obj\Debug\Anagrams.csprojResolveAssemblyReference.cache
