@@ -50,8 +50,10 @@ namespace Anagrams
             Console.WriteLine("Please enter a string to produce anagrams!");
             string line = Console.ReadLine();
             Console.WriteLine();
-            Anagrams(line);
-
+            var output = Anagrams(line);
+            output.ForEach(Console.WriteLine);
+            Console.WriteLine("Press enter to exit");
+            Console.ReadLine();
         }
     }
 
